@@ -6,12 +6,12 @@
 }
 
 .section article{
-    width:350px;
-    border:1px solid black;
+    width:320px;
 }
 
 .section .center-article{
-    width:800px;
+    width:600px;
+    margin:0px 20px;
 }
 
 
@@ -27,10 +27,11 @@
     }
     .section article{
         width:600px;
-
+        margin-bottom:20px;
     }
     .section .center-article{
         width:600px;
+        margin-bottom:20px;
     }
 }
 
@@ -41,10 +42,11 @@
         align-items: center;
     }
     .section article{
+        max-width:600px;
         width:100%;
-
     }
     .section .center-article{
+        max-width:600px;
         width:100%;
     }
 }
