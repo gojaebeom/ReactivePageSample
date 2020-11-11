@@ -4,6 +4,7 @@
     justify-content: flex-start;
     align-items: center;
     width:1270px;
+    border:1px solid black;
 }
 
 .nav .logo{
@@ -26,8 +27,8 @@
 }
 
 .nav .menu a{
-    padding:10px;
-
+    padding:8px;
+    border:1px solid black;
 }
 
 .nav .login-menu{
@@ -36,8 +37,8 @@
 }
 
 .nav .login-menu li{
-    padding:10px 15px;
-
+    padding:8px 15px;
+    border:1px solid black;
 }
 
 .nav .toggle-wrapper{
